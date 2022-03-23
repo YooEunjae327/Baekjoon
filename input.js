@@ -29,3 +29,6 @@
 // }).on("close", function () {
 //   process.exit()
 // })
+
+// const fs = require("fs")
+// let input = fs.readFileSync("./dev/stdin").toString().split(" ")
