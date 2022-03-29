@@ -36,5 +36,6 @@
 // let input = require("fs")
 //   .readFileSync("./dev/stdin")
 //   .toString()
+//   .trim()
 //   .replace(/\r/g, "")
 //   .split(/ |\n/g)
