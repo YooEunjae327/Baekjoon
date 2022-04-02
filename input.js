@@ -39,5 +39,3 @@
 //   .trim()
 //   .replace(/\r/g, "")
 //   .split(/ |\n/g)
-
-//
